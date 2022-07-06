@@ -1,0 +1,39 @@
+h1
+{
+	color: dodgerblue;
+	font-size: 40px;
+	font-weight: bold;
+	font-style: italic;
+	text-align:center;
+	text-decoration: bold;
+	font-family: Georgia;
+	text-align: center;
+	border-radius: 10px;
+	border:2px solid teal; 
+	background-color: bisque;
+
+}
+p
+{
+	color: magenta;
+	font-size: 25px ;
+	background-color:silver;
+	text-decoration: bold; 
+}
+
+label
+{
+	color: darkblue;
+}
+input[name],[value]
+{
+	color: black;
+	font-size: 25px ;
+
+}
+.a
+{
+	color: green;
+	font-size: 25px ;
+
+}
